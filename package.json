@@ -12,7 +12,7 @@
   "dependencies": {
     "bulma": "^0.7.1",
     "cross-cookie": "^0.0.9",
-    "cross-fetch": "^2.2.2",
+    "cross-fetch": "^3.1.5",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.21",
     "serve": "latest",
